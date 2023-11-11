@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "845a814d3b98c52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f64a3159baad4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1255637e432c7f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentest-notes/1 building a pentest methodology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99a150d36b333f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "449df89827eb6f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d4001cb1106a82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25e10312636e5418",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa4c5b09aed1beed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb840c4e591a7584",
+    "type": "split",
+    "children": [
+      {
+        "id": "368a6fb21ae56b4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c97affaac05536",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pentest-notes/1 building a pentest methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a96474c5290a02f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pentest-notes/1 building a pentest methodology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a21bc3a32b31a016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b6dd2e69e515c9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pentest-notes/1 building a pentest methodology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1255637e432c7f00",
+  "lastOpenFiles": [
+    "osint/02-collection.md",
+    "Untitled.canvas",
+    "pentest-notes/1 building a pentest methodology.md",
+    "1 post-exploit success.png",
+    "1 sucessfully escalated  privileges.png",
+    "1 linenum.sh script running.png",
+    "1 linenum.sh file.png",
+    "1 post exploit.png",
+    "1 ftp service.png",
+    "1 ssh on  port 22.png",
+    "1 partners.html exploit phase.png",
+    "1 hashed reverse lookup.png",
+    "1 r00t hash lookup.png",
+    "pentest-notes/2 Building A Test Lab For Pentesting.md",
+    "Untitled.md",
+    "Pasted image 20231111033729.png.md",
+    "Pasted image virtual-network-editor.png.md",
+    "osint/03-processing and exploitation.md",
+    "osint/04-analysis and production.md",
+    "osint/05-dissemination and Integrations.md",
+    "osint/00-OSINT course.md",
+    "osint/01-planning and direction.md"
+  ]
+}
