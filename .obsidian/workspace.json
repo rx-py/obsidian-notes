@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1255637e432c7f00",
+  "active": "a8d4001cb1106a82",
   "lastOpenFiles": [
+    "imgs/2 Active Directory install steps.png",
+    "imgs/1 ftp service.png",
+    "imgs/1  api.js script.png",
+    "imgs/1 active machine info.png",
+    "imgs",
+    "README.md",
+    "LICENSE",
     "osint/02-collection.md",
     "Untitled.canvas",
     "pentest-notes/1 building a pentest methodology.md",
@@ -158,9 +165,6 @@
     "1 post exploit.png",
     "1 ftp service.png",
     "1 ssh on  port 22.png",
-    "1 partners.html exploit phase.png",
-    "1 hashed reverse lookup.png",
-    "1 r00t hash lookup.png",
     "pentest-notes/2 Building A Test Lab For Pentesting.md",
     "Untitled.md",
     "Pasted image 20231111033729.png.md",
